@@ -28,7 +28,7 @@ Previously, I studied new Dark Higgs models to explore direct dark matter
 production at the Large Hadron Collider, and developed a project to automate
 [truth-level reinterpretations][recast] of particle physics analyses.
 I also did work simulating protein folding for [chemically induced
-dimerization of nanobodies][igem], to aid in the development of single small
+dimerization of nanobodies][igem], allowing for the creation of single small
 molecule biosensors.
 
 [recast]: https://iris-hep.org/fellows/edvanbruggen.html
