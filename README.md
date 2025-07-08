@@ -4,8 +4,6 @@
 [projects]: https://edryd.org/projects
 [photos]: https://edryd.org/photos
 
-I like solving problems with embarrassingly simple solutions.
-
 Physics PhD student at UMass Amherst, currently working in the [nEXO
 collaboration][nexo] searching for [neutrinoless double beta decay][0vbb].
 Detecting this decay for the first time would allow us to directly measure the
@@ -39,5 +37,5 @@ Creator of the [eevo][eevo] scripting language.
 
 Lead web developer for [Mental Health for Every Adolescent][mhea].
 
-[eevo]: https://github.com/edvb/tisp
+[eevo]: https://eevo.pub
 [mhea]: https://projectmhea.org
